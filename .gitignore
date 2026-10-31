@@ -1,0 +1,27 @@
+# AI Agent Documentation & History (Local only)
+tasks/
+walkthrough/
+history_conversation/
+
+# SQLite Database & Journal Files
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+
+# Environment & Config
+.env
+.env.local
+
+# IDE & Editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
